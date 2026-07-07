@@ -1,9 +1,7 @@
-# base_project
+#   Notes
 
-Add a new thing
-
-## Sub Title
-
-Other thing
-new 
-dfdf
+#   Shortcuts
+    ctrl+~ = terminal
+    ctrl+shift+I = Format
+    Alt+arrow
+    write KEYWORDS in all caps
