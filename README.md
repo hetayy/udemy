@@ -2,6 +2,9 @@
 
 Add a new thing
 
-## Sub Title
+## Commit Message Rules
 
-Other thing
+ALWAYS use Conventional Commmit syntax
+    feat: message
+    fix: message
+    chore: message
