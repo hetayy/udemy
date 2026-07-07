@@ -1,3 +1,5 @@
 {
-    "image": "debian:13"
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
 }
