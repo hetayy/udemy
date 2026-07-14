@@ -6,4 +6,8 @@ RUN useradd --create-home --shell /bin/bash dev
 RUN usermod -aG sudo dev
 RUN echo "dev ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/username
 
+# SetupPython dependencies 
+RUN apt-get update && apt-get install -y python3 python3-pip
+
+
 USER dev

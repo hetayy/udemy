@@ -1,5 +1,13 @@
 {
     "build": {
         "dockerfile": "Dockerfile"
+    },
+    "postStartCommand": "echo \"alias glog='git log --graph --all'\" >> /home/dev/.bashrc",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
     }
 }
