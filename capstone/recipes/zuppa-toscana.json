@@ -1,0 +1,176 @@
+{
+  "id": "zuppa-toscana",
+  "name": "Zuppa Toscana",
+  "description": null,
+
+  "times": {
+    "prep_minutes": 20,
+    "cook_minutes": 20,
+    "pressure_minutes": 25,
+    "total_minutes": 65
+  },
+
+  "equipment": [
+    "6-quart or 8-quart Electric Pressure Cooker"
+  ],
+
+  "ingredients": [
+    {
+      "name": "Thick Cut Smoky Bacon",
+      "quantity": 3,
+      "unit": "strips",
+      "preparation": "chopped"
+    },
+    {
+      "name": "Ground Hot Italian Sausage",
+      "quantity": 2,
+      "unit": "lb",
+      "preparation": null,
+      "notes": "Use 1/2 hot and 1/2 mild if you don't like spicy."
+    },
+    {
+      "name": "Large Onion",
+      "quantity": 1,
+      "unit": null,
+      "preparation": "chopped"
+    },
+    {
+      "name": "Oregano",
+      "quantity": 1,
+      "unit": "teaspoon",
+      "preparation": "dried"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "preparation": "pressed or minced"
+    },
+    {
+      "name": "Medium Potatoes",
+      "quantity": "4-6",
+      "unit": null,
+      "preparation": "halved and sliced 1/2 inch thick"
+    },
+    {
+      "name": "Chicken Broth",
+      "quantity": 6,
+      "unit": "cups",
+      "preparation": null,
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Kale",
+      "quantity": 1,
+      "unit": "bunch",
+      "preparation": "chopped, rib removed"
+    },
+    {
+      "name": "Heavy Cream",
+      "quantity": "1-1.5",
+      "unit": "cups",
+      "preparation": null,
+      "notes": "Can substitute whole milk, half and half, etc."
+    }
+  ],
+
+  "ingredient_substitutions": [
+    {
+      "for": "Kale",
+      "options": [
+        {
+          "name": "Frozen Chopped Spinach",
+          "quantity": 12,
+          "unit": "oz",
+          "preparation": "thawed"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": null,
+          "unit": null,
+          "preparation": "fresh"
+        }
+      ],
+      "optional": true
+    }
+  ],
+
+  "instructions": [
+    {
+      "step": 1,
+      "text": "Turn the Instant Pot to Sauté mode, and add the chopped bacon. Cook, stirring occasionally, until the bacon renders out most of its fat. Remove and set aside."
+    },
+    {
+      "step": 2,
+      "text": "Add the sausage and brown it, stirring a few times. If you can get a good browning on it the flavor will be even better!"
+    },
+    {
+      "step": 3,
+      "text": "Spoon out most of the fat, leaving about 1 tablespoon."
+    },
+    {
+      "step": 4,
+      "text": "Add the onions and stir."
+    },
+    {
+      "step": 5,
+      "text": "Add the oregano."
+    },
+    {
+      "step": 6,
+      "text": "When the onions start to turn translucent, add the garlic and stir."
+    },
+    {
+      "step": 7,
+      "text": "Pour in the broth, stirring, and scrape the bottom of the pot to remove the browned bits."
+    },
+    {
+      "step": 8,
+      "text": "Add the potatoes and add the bacon back in."
+    },
+    {
+      "step": 9,
+      "text": "Check to make sure the contents do not go over the Max Fill line marked on the inner liner."
+    },
+    {
+      "step": 10,
+      "text": "Cancel Sauté mode."
+    },
+    {
+      "step": 11,
+      "text": "Close the lid and set the steam release knob to Sealing."
+    },
+    {
+      "step": 12,
+      "text": "Set to Manual or Pressure Cook and choose 5 minutes at High Pressure."
+    },
+    {
+      "step": 13,
+      "text": "After the cooking cycle ends, allow a 10 minute Natural Pressure Release."
+    },
+    {
+      "step": 14,
+      "text": "Do a Controlled Quick Release for the remaining steam. When the pin in the lid drops, open the lid."
+    },
+    {
+      "step": 15,
+      "text": "Add the kale, or thawed spinach if using, and stir well. Cover and let heat through for about 5 minutes to soften the kale. If using spinach, stir it in and proceed to the next step."
+    },
+    {
+      "step": 16,
+      "text": "Stir in the heavy cream."
+    },
+    {
+      "step": 17,
+      "text": "Serve."
+    }
+  ],
+
+  "tags": [
+    "soup",
+    "pressure cooker",
+    "instant pot",
+    "sausage",
+    "potatoes"
+  ]
+}

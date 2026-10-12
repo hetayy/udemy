@@ -1,0 +1,168 @@
+{
+  "id": "chicken-stir-fry",
+  "name": "Chicken Stir Fry",
+  "description": null,
+
+  "times": {
+    "prep_minutes": 8,
+    "cook_minutes": 10,
+    "total_minutes": 18
+  },
+
+  "equipment": [],
+
+  "ingredients": [
+    {
+      "name": "Boneless, Skinless Chicken Breast",
+      "quantity": 1,
+      "unit": "lb",
+      "preparation": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Salt",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "preparation": "divided"
+    },
+    {
+      "name": "Broccoli Florets",
+      "quantity": 2,
+      "unit": "cups",
+      "preparation": null
+    },
+    {
+      "name": "Yellow Bell Pepper",
+      "quantity": 0.5,
+      "unit": null,
+      "preparation": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "quantity": 0.5,
+      "unit": null,
+      "preparation": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Baby Carrots",
+      "quantity": 0.5,
+      "unit": "cup",
+      "preparation": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "quantity": 2,
+      "unit": "tsp",
+      "preparation": "minced"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "preparation": "minced"
+    },
+    {
+      "name": "Corn Starch",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "Cold Water",
+      "quantity": 2,
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "Low Sodium Chicken Broth",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "Low Sodium Soy Sauce",
+      "quantity": 3,
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "Honey",
+      "quantity": 0.25,
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "Toasted Sesame Oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": null
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "preparation": null
+    }
+  ],
+
+  "ingredient_substitutions": [],
+
+  "instructions": [
+    {
+      "step": 1,
+      "text": "In a medium size bowl, whisk together corn starch and water. Add remaining ingredients (chicken broth, soy sauce, honey, toasted sesame oil, and red pepper flakes) and whisk to combine. Set aside."
+    },
+    {
+      "step": 2,
+      "text": "Add one tablespoon of olive oil to a large skillet or wok and heat over medium high heat."
+    },
+    {
+      "step": 3,
+      "text": "Add chicken, in batches if necessary, and season with salt and pepper. Cook for 3 to 5 minutes or until cooked through. Remove from skillet."
+    },
+    {
+      "step": 4,
+      "text": "Reduce heat to medium and add remaining tablespoon of oil to the skillet."
+    },
+    {
+      "step": 5,
+      "text": "Add broccoli, bell pepper, and carrots and cook, stirring occasionally, just until crisp tender. Add ginger and garlic and cook for an additional minute."
+    },
+    {
+      "step": 6,
+      "text": "Add chicken back into the skillet and stir to combine."
+    },
+    {
+      "step": 7,
+      "text": "Whisk stir fry sauce and pour over chicken and vegetables and stir gently to combine."
+    },
+    {
+      "step": 8,
+      "text": "Bring to a boil, stirring occasionally, and let boil for one minute."
+    },
+    {
+      "step": 9,
+      "text": "Serve with rice and/or chow mein if desired."
+    }
+  ],
+
+  "tags": [
+    "chicken",
+    "stir fry",
+    "vegetables",
+    "Chinese"
+  ]
+}

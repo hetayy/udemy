@@ -1,0 +1,156 @@
+{
+  "id": "instant-pot-chili",
+  "name": "Instant Pot Chili",
+  "description": null,
+
+  "times": {
+    "prep_minutes": 10,
+    "cook_minutes": 25,
+    "total_minutes": 35
+  },
+
+  "equipment": [
+    "6-quart Instant Pot"
+  ],
+
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "quantity": 2,
+      "unit": "teaspoons",
+      "preparation": null
+    },
+    {
+      "name": "Ground Beef",
+      "quantity": 2,
+      "unit": "lb",
+      "preparation": null,
+      "notes": "90% lean"
+    },
+    {
+      "name": "Onion",
+      "quantity": 1,
+      "unit": null,
+      "preparation": "finely diced"
+    },
+    {
+      "name": "Garlic",
+      "quantity": 1.5,
+      "unit": "teaspoons",
+      "preparation": "minced"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "quantity": 28,
+      "unit": "oz",
+      "preparation": null,
+      "notes": "Do not drain"
+    },
+    {
+      "name": "Tomato Sauce",
+      "quantity": 3,
+      "unit": "8 oz cans",
+      "preparation": null
+    },
+    {
+      "name": "Beef Broth",
+      "quantity": 0.75,
+      "unit": "cup",
+      "preparation": null
+    },
+    {
+      "name": "Chili Powder",
+      "quantity": 2,
+      "unit": "tablespoons",
+      "preparation": null
+    },
+    {
+      "name": "Ground Cumin",
+      "quantity": 2,
+      "unit": "teaspoons",
+      "preparation": null
+    },
+    {
+      "name": "Smoked Paprika",
+      "quantity": 2,
+      "unit": "teaspoons",
+      "preparation": null
+    },
+    {
+      "name": "Cocoa Powder",
+      "quantity": 2,
+      "unit": "teaspoons",
+      "preparation": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "quantity": 1,
+      "unit": "teaspoon",
+      "preparation": null
+    },
+    {
+      "name": "Kosher Salt",
+      "quantity": 1.5,
+      "unit": "teaspoons",
+      "preparation": null
+    },
+    {
+      "name": "Ground Pepper",
+      "quantity": 0.75,
+      "unit": "teaspoon",
+      "preparation": null
+    },
+    {
+      "name": "Kidney Beans",
+      "quantity": 15,
+      "unit": "oz",
+      "preparation": "drained and rinsed"
+    },
+    {
+      "name": "Pinto Beans",
+      "quantity": 15,
+      "unit": "oz",
+      "preparation": "drained and rinsed"
+    },
+    {
+      "name": "Assorted Toppings",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "notes": "Such as shredded cheese, tomatoes, green onions, and sour cream"
+    }
+  ],
+
+  "ingredient_substitutions": [],
+
+  "instructions": [
+    {
+      "step": 1,
+      "text": "Turn your 6 quart Instant Pot to Saute, then select More. Add the olive oil to the pot. Add the meat and cook until browned, breaking up the beef with a spatula as you stir."
+    },
+    {
+      "step": 2,
+      "text": "Add the onion and cook for 3 more minutes or until softened."
+    },
+    {
+      "step": 3,
+      "text": "Add the garlic, tomatoes, tomato sauce, beef broth, chili powder, cumin, smoked paprika, cocoa powder, sugar, salt, pepper and beans to the pot."
+    },
+    {
+      "step": 4,
+      "text": "Turn the Instant Pot to the Chili/Beans setting and place the lid on the pot. Cook for 20 minutes. If you don't have this setting, you can use manual high pressure. Release the pressure either manually or allow it to release naturally."
+    },
+    {
+      "step": 5,
+      "text": "Serve with assorted toppings."
+    }
+  ],
+
+  "tags": [
+    "soup",
+    "chili",
+    "American",
+    "Instant Pot",
+    "beef"
+  ]
+}
